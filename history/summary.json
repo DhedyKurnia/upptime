@@ -1,7 +1,7 @@
 [
   {
     "name": "Google",
-    "url": "https://www.google.com",
+    "url": "https://daftarilmu.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
+    "url": "https://www.dediwebs.my.id",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
+    "url": "https://heloslide.my.id",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
@@ -60,10 +60,10 @@
   },
   {
     "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
+    "url": "https://www.dediwebs.my.id",
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
